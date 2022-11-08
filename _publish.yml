@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e21c11d3-33e4-4ab1-9804-1a886967cfae
+      url: 'https://www.palaeobiology.org'
