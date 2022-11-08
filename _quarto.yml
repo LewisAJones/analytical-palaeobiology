@@ -2,9 +2,17 @@ project:
   type: book
 
 book:
-  title: "test"
-  author: "Jane Doe"
-  date: "08/11/2022"
+  title: "Analytical Palaeobiology with Applications in R"
+  author:
+    - "Lewis A. Jones"
+    - "Christopher D. Dean"
+  date: today
+  search: true
+  repo-url: https://github.com/LewisAJones/analytical-palaeobiology
+  repo-actions: [edit, issue]
+  sharing: [twitter, facebook]
+  page-footer: 
+    left: "Copyright 2022, Lewis A. Jones & Christopher D. Dean" 
   chapters:
     - index.qmd
     - intro.qmd
