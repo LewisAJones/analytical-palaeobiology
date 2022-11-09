@@ -24,10 +24,8 @@ book:
         href: https://twitter.com/princessquatris
   chapters:
     - index.qmd
-    - part: part-1.qmd
-      chapters:
-        - intro.qmd
-        - summary.qmd
+    - intro.qmd
+    - summary.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -35,6 +33,7 @@ bibliography: references.bib
 format:
   html:
     theme:
+      page-layout: full
       light: flatly
       dark: darkly
   pdf:
