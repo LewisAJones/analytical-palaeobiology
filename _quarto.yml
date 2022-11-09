@@ -2,21 +2,28 @@ project:
   type: book
 
 book:
-  title: "Analytical Palaeobiology with Applications in R"
-  author:
-    - "Lewis A. Jones"
-    - "Christopher D. Dean"
+  title: "Analytical Palaeobiology"
+  subtitle: "with applications in R"
+  author: "Lewis A. Jones, Christopher D. Dean"
   date: today
   search: true
+  site-url: http://palaeobiology.org
   repo-url: https://github.com/LewisAJones/analytical-palaeobiology
   repo-actions: [edit, issue]
   sharing: [twitter, facebook]
   page-footer: 
-    left: "Copyright 2022, Lewis A. Jones" 
+    left: "Copyright 2022, Lewis A. Jones"
+    right: 
+      - icon: github
+        href: https://github.com/LewisAJones
+      - icon: twitter 
+        href: https://twitter.com/LewisAlanJones
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: part-1.qmd
+      chapters:
+        - intro.qmd
+        - summary.qmd
     - references.qmd
 
 bibliography: references.bib
