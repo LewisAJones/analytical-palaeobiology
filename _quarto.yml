@@ -4,7 +4,9 @@ project:
 book:
   title: "Analytical Palaeobiology"
   subtitle: "with applications in R"
-  author: "Lewis A. Jones, Christopher D. Dean"
+  author:
+    - "Lewis A. Jones"
+    - "Christopher D. Dean"
   date: today
   search: true
   site-url: http://palaeobiology.org
@@ -12,12 +14,14 @@ book:
   repo-actions: [edit, issue]
   sharing: [twitter, facebook]
   page-footer: 
-    left: "Copyright 2022, Lewis A. Jones"
+    left: "Copyright 2022, Lewis A. Jones & Christopher D. Dean"
     right: 
       - icon: github
         href: https://github.com/LewisAJones
       - icon: twitter 
         href: https://twitter.com/LewisAlanJones
+      - icon: twitter 
+        href: https://twitter.com/princessquatris
   chapters:
     - index.qmd
     - part: part-1.qmd
@@ -30,7 +34,9 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
   pdf:
     documentclass: scrreprt
 
