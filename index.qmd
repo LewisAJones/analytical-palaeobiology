@@ -1,13 +1,15 @@
-# Welcome
+# Welcome {.unnumbered}
+
+## Acknowledgements {.unnumbered}
+
+## Authors' contributions {.unnumbered}
 
 # Foreword {.unnumbered}
 
 # Preface {.unnumbered}
 
-This is a Quarto book.
+## Who this book is for
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## How to read this book
 
-```{r}
-1 + 1
-```
+## Why R?

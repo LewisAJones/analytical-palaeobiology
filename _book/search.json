@@ -33,5 +33,26 @@
     "title": "Introduction",
     "section": "",
     "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "index.html#who-this-book-is-for",
+    "href": "index.html#who-this-book-is-for",
+    "title": "Analytical Palaeobiology",
+    "section": "Who this book is for",
+    "text": "Who this book is for"
+  },
+  {
+    "objectID": "index.html#how-to-read-this-book",
+    "href": "index.html#how-to-read-this-book",
+    "title": "Analytical Palaeobiology",
+    "section": "How to read this book",
+    "text": "How to read this book"
+  },
+  {
+    "objectID": "index.html#why-r",
+    "href": "index.html#why-r",
+    "title": "Analytical Palaeobiology",
+    "section": "Why R?",
+    "text": "Why R?"
   }
 ]
