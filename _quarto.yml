@@ -13,6 +13,7 @@ book:
   repo-url: https://github.com/LewisAJones/analytical-palaeobiology
   repo-actions: [edit, issue]
   sharing: [twitter, facebook]
+  favicon: images/ammonite.png
   page-footer: 
     left: "Copyright 2022, Lewis A. Jones & Christopher D. Dean"
     right: 
