@@ -14,6 +14,7 @@ book:
   repo-actions: [edit, issue]
   sharing: [twitter, facebook]
   favicon: images/favicon/favicon.ico
+  cover-image: images/ammonite.png
   page-footer: 
     left: "Copyright 2022, Lewis A. Jones & Christopher D. Dean"
     right: 
