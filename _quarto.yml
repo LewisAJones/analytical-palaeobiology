@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Analytical Palaeobiology"
-  subtitle: "with applications in R"
+  subtitle: "with Applications in R"
   author:
     - "Lewis A. Jones"
     - "Christopher D. Dean"
@@ -36,7 +36,7 @@ format:
   html:
     theme:
       page-layout: full
-      light: lux
+      light: flatly
       dark: darkly
   pdf:
     documentclass: scrreprt
