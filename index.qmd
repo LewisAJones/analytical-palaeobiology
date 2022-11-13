@@ -1,5 +1,9 @@
 # Welcome {.unnumbered}
 
+Welcome to 'Analytical Palaeobiology with Applications in R' by [Lewis A. Jones](www.LewisAJones.com) and [Christopher D. Dean](https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-chris-dean). This book provides a resource for anyone working with palaeobiological data, and covers...
+
+This is the work-in-progress first edition of the book. We hope to have this edition live by Autumn 2023. Feel free to explore this space before then, but note that content is not yet reviewed and finalised.
+
 ## Acknowledgements {.unnumbered}
 
 ## Authors' contributions {.unnumbered}
