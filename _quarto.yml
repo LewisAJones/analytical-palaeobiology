@@ -26,6 +26,7 @@ book:
         href: https://twitter.com/princessquatris
   chapters:
     - index.qmd
+    - preface.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
