@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://palaeobiology.org/index.html</loc>
-    <lastmod>2022-11-13T14:33:01.991Z</lastmod>
-  </url>
-  <url>
-    <loc>http://palaeobiology.org/part-1.html</loc>
-    <lastmod>2022-11-09T15:26:11.450Z</lastmod>
-  </url>
-  <url>
-    <loc>http://palaeobiology.org/intro.html</loc>
-    <lastmod>2022-11-13T14:32:57.556Z</lastmod>
+    <lastmod>2022-11-13T14:43:12.471Z</lastmod>
   </url>
   <url>
     <loc>http://palaeobiology.org/preface.html</loc>
-    <lastmod>2022-11-13T14:32:56.805Z</lastmod>
+    <lastmod>2022-11-13T14:43:11.779Z</lastmod>
+  </url>
+  <url>
+    <loc>http://palaeobiology.org/intro.html</loc>
+    <lastmod>2022-11-13T14:43:11.779Z</lastmod>
+  </url>
+  <url>
+    <loc>http://palaeobiology.org/summary.html</loc>
+    <lastmod>2022-11-13T14:43:11.780Z</lastmod>
+  </url>
+  <url>
+    <loc>http://palaeobiology.org/references.html</loc>
+    <lastmod>2022-11-13T14:43:11.780Z</lastmod>
   </url>
 </urlset>

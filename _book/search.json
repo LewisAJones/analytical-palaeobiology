@@ -7,55 +7,6 @@
     "text": "Welcome to Analytical Palaeobiology with Applications in R by Lewis A. Jones and Christopher D. Dean. This book provides a resource for anyone working with palaeobiological data, and covers…\nThis is the work-in-progress first edition of the book. We hope to have this edition live by Autumn 2023. Feel free to explore this space before then, but note that the content is not yet reviewed or finalised."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "part-1.html",
-    "href": "part-1.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "index.html#who-this-book-is-for",
-    "href": "index.html#who-this-book-is-for",
-    "title": "Analytical Palaeobiology",
-    "section": "Who this book is for",
-    "text": "Who this book is for"
-  },
-  {
-    "objectID": "index.html#how-to-read-this-book",
-    "href": "index.html#how-to-read-this-book",
-    "title": "Analytical Palaeobiology",
-    "section": "How to read this book",
-    "text": "How to read this book"
-  },
-  {
-    "objectID": "index.html#why-r",
-    "href": "index.html#why-r",
-    "title": "Analytical Palaeobiology",
-    "section": "Why R?",
-    "text": "Why R?"
-  },
-  {
     "objectID": "preface.html#authors-contributions",
     "href": "preface.html#authors-contributions",
     "title": "Preface",
@@ -82,5 +33,26 @@
     "title": "Preface",
     "section": "Why R?",
     "text": "Why R?"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
